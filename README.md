@@ -10,3 +10,4 @@
 # Lokaverkefniaftur
 # Lokaverkefni_rett
 # Lokaverkefni_rett
+# Lokaverkefni_rett
