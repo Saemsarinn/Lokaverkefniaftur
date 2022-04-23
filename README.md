@@ -8,3 +8,4 @@
 # totiogsaemi
 # Lokaverkefniaftur
 # Lokaverkefniaftur
+# Lokaverkefni_rett
